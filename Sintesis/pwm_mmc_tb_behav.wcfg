@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<wave_config>
+   <wave_state>
+   </wave_state>
+   <db_ref_list>
+      <db_ref path="pwm_mmc_tb_behav.wdb" id="1">
+         <top_modules>
+            <top_module name="glbl" />
+            <top_module name="pwm_mmc_tb" />
+         </top_modules>
+      </db_ref>
+   </db_ref_list>
+   <zoom_setting>
+      <ZoomStartTime time="0fs"></ZoomStartTime>
+      <ZoomEndTime time="1430000001fs"></ZoomEndTime>
+      <Cursor1Time time="284000000fs"></Cursor1Time>
+   </zoom_setting>
+   <column_width_setting>
+      <NameColumnWidth column_width="157"></NameColumnWidth>
+      <ValueColumnWidth column_width="58"></ValueColumnWidth>
+   </column_width_setting>
+   <WVObjectSize size="9" />
+   <wave_markers>
+      <marker time="784000000" label="" />
+      <marker time="844000000" label="" />
+      <marker time="884000000" label="" />
+      <marker time="1284000000" label="" />
+   </wave_markers>
+   <wvobject fp_name="/pwm_mmc_tb/clk_tb" type="logic">
+      <obj_property name="ElementShortName">clk_tb</obj_property>
+      <obj_property name="ObjectShortName">clk_tb</obj_property>
+   </wvobject>
+   <wvobject fp_name="/pwm_mmc_tb/rst_tb" type="logic">
+      <obj_property name="ElementShortName">rst_tb</obj_property>
+      <obj_property name="ObjectShortName">rst_tb</obj_property>
+   </wvobject>
+   <wvobject fp_name="/pwm_mmc_tb/ena_tb" type="logic">
+      <obj_property name="ElementShortName">ena_tb</obj_property>
+      <obj_property name="ObjectShortName">ena_tb</obj_property>
+   </wvobject>
+   <wvobject fp_name="/pwm_mmc_tb/freq_tb" type="array">
+      <obj_property name="ElementShortName">freq_tb[31:0]</obj_property>
+      <obj_property name="ObjectShortName">freq_tb[31:0]</obj_property>
+      <obj_property name="Radix">UNSIGNEDDECRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/pwm_mmc_tb/duty_tb" type="array">
+      <obj_property name="ElementShortName">duty_tb[31:0]</obj_property>
+      <obj_property name="ObjectShortName">duty_tb[31:0]</obj_property>
+      <obj_property name="Radix">UNSIGNEDDECRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/pwm_mmc_tb/pwm_tb" type="logic">
+      <obj_property name="ElementShortName">pwm_tb</obj_property>
+      <obj_property name="ObjectShortName">pwm_tb</obj_property>
+   </wvobject>
+   <wvobject fp_name="/pwm_mmc_tb/DUT/locked" type="logic">
+      <obj_property name="ElementShortName">locked</obj_property>
+      <obj_property name="ObjectShortName">locked</obj_property>
+   </wvobject>
+   <wvobject fp_name="/pwm_mmc_tb/DUT/clk_gen" type="logic">
+      <obj_property name="ElementShortName">clk_gen</obj_property>
+      <obj_property name="ObjectShortName">clk_gen</obj_property>
+   </wvobject>
+   <wvobject fp_name="/pwm_mmc_tb/DUT/ila_inst/probe0" type="array">
+      <obj_property name="ElementShortName">probe0[0:0]</obj_property>
+      <obj_property name="ObjectShortName">probe0[0:0]</obj_property>
+      <obj_property name="isExpanded"></obj_property>
+   </wvobject>
+</wave_config>

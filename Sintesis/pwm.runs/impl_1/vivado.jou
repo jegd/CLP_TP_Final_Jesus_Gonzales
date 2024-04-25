@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2018.1 (64-bit)
+# SW Build 2188600 on Wed Apr  4 18:40:38 MDT 2018
+# IP Build 2185939 on Wed Apr  4 20:55:05 MDT 2018
+# Start of session at: Tue Apr 23 23:35:21 2024
+# Process ID: 17808
+# Current directory: D:/Especialidad sistemas embebidos UBA/Circuitos_logicos_pro/Clase_1/pwm/Sintesis/pwm.runs/impl_1
+# Command line: vivado.exe -log pwm_mmc.vdi -applog -product Vivado -messageDb vivado.pb -mode batch -source pwm_mmc.tcl -notrace
+# Log file: D:/Especialidad sistemas embebidos UBA/Circuitos_logicos_pro/Clase_1/pwm/Sintesis/pwm.runs/impl_1/pwm_mmc.vdi
+# Journal file: D:/Especialidad sistemas embebidos UBA/Circuitos_logicos_pro/Clase_1/pwm/Sintesis/pwm.runs/impl_1\vivado.jou
+#-----------------------------------------------------------
+source pwm_mmc.tcl -notrace

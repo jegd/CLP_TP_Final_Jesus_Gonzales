@@ -1,0 +1,36 @@
+{D:/Especialidad sistemas embebidos UBA/Circuitos_logicos_pro/Clase_1/pwm/Fuentes/contBCD.vhd} {1 {vcom -work work -2002 -explicit {D:/Especialidad sistemas embebidos UBA/Circuitos_logicos_pro/Clase_1/pwm/Fuentes/contBCD.vhd}
+Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling entity contBCD
+-- Compiling architecture contBCD_arq of contBCD
+
+} {} {}} {D:/Especialidad sistemas embebidos UBA/Circuitos_logicos_pro/Clase_1/pwm/Fuentes/reg.vhd} {1 {vcom -work work -2002 -explicit {D:/Especialidad sistemas embebidos UBA/Circuitos_logicos_pro/Clase_1/pwm/Fuentes/reg.vhd}
+Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity reg
+-- Compiling architecture reg_arq of reg
+
+} {} {}} {D:/Especialidad sistemas embebidos UBA/Circuitos_logicos_pro/Clase_1/pwm/Fuentes/pwm_prueba.vhd} {1 {vcom -work work -2002 -explicit {D:/Especialidad sistemas embebidos UBA/Circuitos_logicos_pro/Clase_1/pwm/Fuentes/pwm_prueba.vhd}
+Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling entity pwm_prueba
+-- Compiling architecture pwm_prueba_arq of pwm_prueba
+
+} {} {}} {D:/Especialidad sistemas embebidos UBA/Circuitos_logicos_pro/Clase_1/pwm/Fuentes/contBCD_tb.vhd} {1 {vcom -work work -2002 -explicit {D:/Especialidad sistemas embebidos UBA/Circuitos_logicos_pro/Clase_1/pwm/Fuentes/contBCD_tb.vhd}
+Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling entity contBCD_tb
+-- Compiling architecture contBCD_tb_arq of contBCD_tb
+
+} {} {}}

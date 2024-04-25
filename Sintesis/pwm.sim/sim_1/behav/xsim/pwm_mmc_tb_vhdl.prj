@@ -1,0 +1,12 @@
+# compile vhdl design source files
+vhdl xil_defaultlib  \
+"../../../../pwm.srcs/sources_1/ip/ila_0/sim/ila_0.vhd" \
+"../../../../pwm.srcs/sources_1/ip/vio_0/sim/vio_0.vhd" \
+"../../../../../Fuentes/contBCD.vhd" \
+"../../../../../Fuentes/pwm.vhd" \
+"../../../../pwm.srcs/sources_1/new/pwm_mmc.vhd" \
+"../../../../../Fuentes/reg.vhd" \
+"../../../../../Fuentes/pwm_mmc_tb.vhd" \
+
+# Do not sort compile order
+nosort

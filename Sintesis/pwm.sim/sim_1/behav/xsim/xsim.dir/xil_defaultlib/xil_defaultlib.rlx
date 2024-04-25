@@ -1,0 +1,14 @@
+0.6
+2018.1
+Apr  4 2018
+19:30:32
+D:/Especialidad sistemas embebidos UBA/Circuitos_logicos_pro/Clase_1/pwm/Fuentes/contBCD.vhd,1713749099,vhdl,,,,contbcd,,,,,,,,
+D:/Especialidad sistemas embebidos UBA/Circuitos_logicos_pro/Clase_1/pwm/Fuentes/pwm.vhd,1713762584,vhdl,D:/Especialidad sistemas embebidos UBA/Circuitos_logicos_pro/Clase_1/pwm/Sintesis/pwm.srcs/sources_1/new/pwm_mmc.vhd,,,pwm,,,,,,,,
+D:/Especialidad sistemas embebidos UBA/Circuitos_logicos_pro/Clase_1/pwm/Fuentes/pwm_mmc_tb.vhd,1713932224,vhdl,,,,pwm_mmc_tb,,,,,,,,
+D:/Especialidad sistemas embebidos UBA/Circuitos_logicos_pro/Clase_1/pwm/Fuentes/reg.vhd,1713733904,vhdl,,,,reg,,,,,,,,
+D:/Especialidad sistemas embebidos UBA/Circuitos_logicos_pro/Clase_1/pwm/Sintesis/pwm.sim/sim_1/behav/xsim/glbl.v,1522801934,verilog,,,,glbl,,,,,,,,
+D:/Especialidad sistemas embebidos UBA/Circuitos_logicos_pro/Clase_1/pwm/Sintesis/pwm.srcs/sources_1/ip/clk_wiz_0/clk_wiz_0.v,1713753316,verilog,,,,clk_wiz_0,,,../../../../pwm.srcs/sources_1/ip/clk_wiz_0;../../../../pwm.srcs/sources_1/ip/clk_wiz_1,,,,,
+D:/Especialidad sistemas embebidos UBA/Circuitos_logicos_pro/Clase_1/pwm/Sintesis/pwm.srcs/sources_1/ip/clk_wiz_0/clk_wiz_0_clk_wiz.v,1713753316,verilog,,D:/Especialidad sistemas embebidos UBA/Circuitos_logicos_pro/Clase_1/pwm/Sintesis/pwm.srcs/sources_1/ip/clk_wiz_0/clk_wiz_0.v,,clk_wiz_0_clk_wiz,,,../../../../pwm.srcs/sources_1/ip/clk_wiz_0;../../../../pwm.srcs/sources_1/ip/clk_wiz_1,,,,,
+D:/Especialidad sistemas embebidos UBA/Circuitos_logicos_pro/Clase_1/pwm/Sintesis/pwm.srcs/sources_1/ip/ila_0/sim/ila_0.vhd,1713930200,vhdl,,,,ila_0,,,,,,,,
+D:/Especialidad sistemas embebidos UBA/Circuitos_logicos_pro/Clase_1/pwm/Sintesis/pwm.srcs/sources_1/ip/vio_0/sim/vio_0.vhd,1713847834,vhdl,,,,vio_0,,,,,,,,
+D:/Especialidad sistemas embebidos UBA/Circuitos_logicos_pro/Clase_1/pwm/Sintesis/pwm.srcs/sources_1/new/pwm_mmc.vhd,1713932185,vhdl,,,,pwm_mmc,,,,,,,,
